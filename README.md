@@ -1,8 +1,7 @@
-## Hi there 👋
+## Hi there Ricardo Lima  👋
 
-<!--
-**RicardoLima-N/RicardoLima-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![RicardoLima-N's Stats](https://github-readme-stats.vercel.app/api?username=RicardoLima-N&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
