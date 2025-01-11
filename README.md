@@ -1,7 +1,8 @@
 ## Hi there Ricardo Lima  👋
 
 
-![RicardoLima-N's Stats](https://github-readme-stats.vercel.app/api?username=RicardoLima-N&theme=dracula&show_icons=true&hide_border=true&count_private=true) ![RicardoLima-N's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoLima-N&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![RicardoLima-N's Stats](https://github-readme-stats.vercel.app/api?username=RicardoLima-N&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![RicardoLima-N's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoLima-N&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
